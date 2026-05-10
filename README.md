@@ -1,7 +1,8 @@
 # Trabalho de Python
 
 Nome: Antonio Ferreira, Matias pais , Oleksandr Gakh , Maria Chagas 
-Turma: Tua Turma  
+
+Turma: 11ºGPSI 
 
 Descrição:
 # Sistema de Lista de Tarefas
